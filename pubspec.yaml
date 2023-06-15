@@ -41,7 +41,6 @@ dependencies:
   flip_card: ^0.7.0
   barcode_widget: ^2.0.3
   webview_flutter: ^4.0.6
-  webview_flutter_android: ^3.4.3
 
 dev_dependencies:
   flutter_test:
